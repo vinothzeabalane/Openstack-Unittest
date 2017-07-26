@@ -1,0 +1,40 @@
+{
+	"newton_auth": {
+		"admin": {
+			"OS_PROJECT_DOMAIN_NAME": "Default",
+			"OS_USER_DOMAIN_NAME": "Default",
+			"OS_PROJECT_NAME": "admin",
+			"OS_USERNAME": "admin",
+			"OS_IDENTITY_API_VERSION": "3",
+			"OS_IMAGE_API_VERSION": "2",
+			"OS_PASSWORD": "root123"
+		},
+		"demo": {
+			"OS_PROJECT_DOMAIN_NAME": "Default",
+			"OS_USER_DOMAIN_NAME": "Default",
+			"OS_PROJECT_NAME": "demo",
+			"OS_USERNAME": "demo",
+			"OS_IDENTITY_API_VERSION": "3",
+			"OS_IMAGE_API_VERSION": "2",
+			"OS_PASSWORD": "root123"
+		}
+	},
+	"ocata_auth": {
+		"admin": {
+			"OS_PROJECT_DOMAIN_NAME": "Default",
+			"OS_USER_DOMAIN_NAME": "Default",
+			"OS_PROJECT_NAME": "admin",
+			"OS_USERNAME": "admin",
+			"OS_IDENTITY_API_VERSION": "3",
+			"OS_PASSWORD": "root123"
+		},
+		"demo": {
+			"OS_PROJECT_DOMAIN_NAME": "Default",
+			"OS_USER_DOMAIN_NAME": "Default",
+			"OS_PROJECT_NAME": "demo",
+			"OS_USERNAME": "demo",
+			"OS_IDENTITY_API_VERSION": "3",
+			"OS_PASSWORD": "root123"
+		}
+	}
+}
